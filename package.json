@@ -5,7 +5,13 @@
   "repository": "https://github.com/Gustavo-Kuze/omnistack-aircnc-back.git",
   "author": "Gustavo-Kuze <gustavoksilva3@hotmail.com>",
   "license": "MIT",
+  "scripts": {
+    "start": "nodemon src/server.js"
+  },
   "dependencies": {
     "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.3"
   }
 }
