@@ -1,0 +1,11 @@
+{
+  "name": "omnistack-aircnc-back",
+  "version": "1.0.0",
+  "main": "./src/server.js",
+  "repository": "https://github.com/Gustavo-Kuze/omnistack-aircnc-back.git",
+  "author": "Gustavo-Kuze <gustavoksilva3@hotmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
